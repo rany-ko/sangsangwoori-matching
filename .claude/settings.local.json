@@ -1,0 +1,16 @@
+{
+  "permissions": {
+    "allow": [
+      "mcp__supabase__list_projects",
+      "mcp__supabase__list_tables",
+      "mcp__supabase__get_project_url",
+      "mcp__supabase__get_publishable_keys",
+      "PowerShell(npm run *)",
+      "Read(//mnt/c/Users/mkran/Desktop/프로그램/antigravity/**)",
+      "Bash(timeout 12 npm run dev)",
+      "PowerShell(Get-Content *)",
+      "Bash(git add *)",
+      "Bash(git commit *)"
+    ]
+  }
+}
